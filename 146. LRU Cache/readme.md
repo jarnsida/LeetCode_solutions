@@ -1,3 +1,6 @@
+
+![2021-08-18_00-41-44](https://user-images.githubusercontent.com/17678404/129804452-3fe14192-6688-4581-b00e-77bf2b0e866a.png)
+
 Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.
 
 Implement the LRUCache class:
